@@ -1,0 +1,15 @@
+favorites:
+  #Item Favorites Text
+  #아이템 즐겨찾기 텍스트
+  cooldown: 1
+  text: "&eAdded to favorites"
+  register:
+    #Sending a message when registering an item as a favorite
+    #아이템 즐겨찾기 등록시 메시지 전송
+    message: "&eItem added to favorites."
+    sound: "minecraft:block.note_block.bell"
+  unregister:
+    #Sending a message when unregistering an item as a favorite
+    #아이템 즐겨찾기 등록 해제 메시지 전송
+    message: "&cItem removed from favorites."
+    sound: "minecraft:block.note_block.bass"
